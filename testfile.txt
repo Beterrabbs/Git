@@ -1,1 +1,2 @@
-Test
+Test 
+Para editar a porra desse texto no vi tem que apertar "o" e para salvar  esc :w
